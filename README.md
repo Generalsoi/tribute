@@ -9,3 +9,5 @@ in the site.
 I did not enounter any difficulties of any kind while completing this site. 
 
 I would love to hear your opinions on how I can improve it as well. 
+
+check out the site here https://generalsoi.github.io/tribute/
