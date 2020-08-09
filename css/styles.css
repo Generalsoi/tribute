@@ -1,0 +1,100 @@
+body{
+  margin: 0;
+}
+h1{
+  font-family: 'Red Rose', cursive;
+  font-weight: bold;
+  font-size: 4.5rem;
+}
+h2{
+  font-family: 'Red Rose', cursive;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+h3{
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 1rem;
+  margin-bottom: 20px;
+}
+
+/*tribute heading section*/
+#tribute-heading{
+  margin: 0;
+  background-color: #322f3d;
+  color: white;
+  padding: 3% 15%;
+  text-align: center;
+}
+#tribute-heading img{
+  width: 40%;
+  border-radius: 20%;
+}
+
+/*info section*/
+#info{
+  text-align: center;
+  padding: 3% 15%;
+  background-color: lightgray;
+}
+#info p{
+  font-family: 'IBM Plex Sans', sans-serif;
+  line-height: 2;
+  padding: auto 10%;
+}
+
+/*recommendations*/
+
+.recommendation-images{
+  width: 10%;
+  border-radius: 100%;
+}
+#recommendations{
+  text-align: center;
+  background-color: #322f3d;
+  color: white;
+}
+.carousel-item{
+  padding: 7% 15%;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: bold;
+  line-height: 2;
+  font-size: 1.5rem;
+}
+.people-talk{
+  padding-top: 4%;
+}
+
+/*albums and features*/
+#albums-features{
+  text-align: center;
+  padding: 3% 15%;
+  background-color: lightgray;
+}
+#albums-features p{
+  font-family: 'IBM Plex Sans', sans-serif;
+  line-height: 2;
+  font-weight: bold;
+}
+.card-header{
+  background-color: #87556f;
+}
+
+/*footer*/
+#footer{
+  text-align: center;
+  padding: 3% 15%;
+  background-color: #322f3d;
+  color: white;
+}
+.footer-link{
+  color: white;
+  font-family: 'Red Rose', cursive;
+  font-weight: bold;
+  margin-right: 60px;
+  padding-bottom: 30px;
+}
+.footer-h4{
+  font-family: 'Red Rose', cursive;
+  font-weight: bold;
+}
