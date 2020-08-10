@@ -125,4 +125,7 @@ h3{
   .footer-h4{
     font-size: 0.5rem;
   }
+  #albums-features{
+    padding: 0;
+  }
 }
