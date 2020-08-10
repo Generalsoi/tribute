@@ -98,3 +98,31 @@ h3{
   font-family: 'Red Rose', cursive;
   font-weight: bold;
 }
+
+/*media query sections*/
+@media screen and (max-width: 900px){
+  body{
+    text-align: center;
+    }
+  h1{
+    font-size: 3rem;
+  }
+  h2{
+    font-size: 1.5rem;
+  }
+  h3{
+    font-size: 1rem;
+  }
+  #tribute-heading{
+    padding: 3% 0;
+  }
+  #info p{
+    font-size: 1rem;
+  }
+  .footer-link{
+    margin-right: 20px;
+  }
+  .footer-h4{
+    font-size: 0.5rem;
+  }
+}
