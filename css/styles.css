@@ -131,4 +131,7 @@ h3{
   #albums-features{
     padding: 0;
   }
+  .recommendation-images{
+    width: 40%;
+  }
 }
